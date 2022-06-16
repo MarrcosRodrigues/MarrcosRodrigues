@@ -4,7 +4,7 @@
 
 ## Oi 👋
 
-Me chamo Marcos Rodrigues, sou estudante do curso Análise e Desenvolvimento de Sistemas e estou buscando conhecimentos sobre Testes de Software/QA. E estou buscando sempre aprender novas tecnologias e estudante bastante sobre o universo da qualidade de software.
+Me chamo Marcos Rodrigues, sou estudante do curso Análise e Desenvolvimento de Sistemas e estou buscando conhecimentos sobre Testes de Software/QA. E estou adquirindo novas tecnologias e estudando bastante sobre o universo da qualidade de software.
 
 ### 🛠 Ferramentas: Selenium, Cucumber(Aprendendo).
 
