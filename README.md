@@ -6,7 +6,7 @@
 
 Me chamo Marcos Rodrigues, sou estudante do curso Análise e Desenvolvimento de Sistemas e estou buscando conhecimentos sobre Testes de Software/QA. E estou buscando sempre aprender novas tecnologias e estudante bastante sobre o universo da qualidade de software.
 
-### 🛠 Ferramentas: Selenium, Cucumber.
+### 🛠 Ferramentas: Selenium, Cucumber(Aprendendo).
 
 ## 💻 Tecnologias:
 
