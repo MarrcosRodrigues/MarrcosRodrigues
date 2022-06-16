@@ -22,4 +22,3 @@ Me chamo Marcos Rodrigues, sou estudante do curso Análise e Desenvolvimento de 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marrcosrodrigues&show_icons=true&locale=en&layout=compact" alt="marrcosrodrigues" /></p>
 
-
