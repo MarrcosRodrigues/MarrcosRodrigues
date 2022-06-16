@@ -18,6 +18,7 @@ Me chamo Marcos Rodrigues, sou estudante do curso Análise e Desenvolvimento de 
 
 ## 👩‍💻 IDE:
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&link=https://www.eclipse.org/downloads/)](https://www.eclipse.org/downloads/)
+[![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&link=https://netbeans.apache.org/)](https://netbeans.apache.org/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/)](https://www.jetbrains.com/pt-br/pycharm/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marrcosrodrigues&show_icons=true&locale=en&layout=compact" alt="marrcosrodrigues" /></p>
