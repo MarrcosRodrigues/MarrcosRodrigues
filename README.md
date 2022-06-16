@@ -1,5 +1,5 @@
 ## Marcos Rodrigues
-[![LinkindIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/MarrcosRodrigues)](https://github.com/MarrcosRodrigues)
+[![LinkindIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmarcosrodrigues/)](https://www.linkedin.com/in/jmarcosrodrigues/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarrcosRodrigues)](https://github.com/MarrcosRodrigues)
 
 ## Oi 👋
