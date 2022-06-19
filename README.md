@@ -1,12 +1,15 @@
 # Marcos Rodrigues
 [![LinkindIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmarcosrodrigues/)](https://www.linkedin.com/in/jmarcosrodrigues/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarrcosRodrigues)](https://github.com/MarrcosRodrigues)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m4rcos.rodrig@gmail.com)](mailto:m4rcos.rodrig@gmail.com)
 
-## Oi 👋
+## Olá, bem vindo ao meu Github :grin:
 
 Me chamo Marcos Rodrigues, sou estudante do curso Análise e Desenvolvimento de Sistemas, e estou buscando conhecimentos sobre Testes de Software/QA. E assim adquirindo novas tecnologias e ferramentas para me aprofundar mais no universo da qualidade de software.
 
-### 🛠 Ferramentas: Selenium, Cucumber(Aprendendo).
+## 🛠 Ferramentas: 
+
+ - Selenium, Cucumber(Aprendendo).
 
 ## 💻 Tecnologias:
 
@@ -21,5 +24,7 @@ Me chamo Marcos Rodrigues, sou estudante do curso Análise e Desenvolvimento de 
 [![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&link=https://netbeans.apache.org/)](https://netbeans.apache.org/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/)](https://www.jetbrains.com/pt-br/pycharm/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrcosrodrigues&show_icons=true&title_color=9805e8&icon_color=f9805e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" alt="marrcosrodrigues" /></p>
+| Top Languages |
+| --- |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrcosrodrigues&show_icons=true&title_color=9805e8&icon_color=f9805e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" alt="marrcosrodrigues" /></p> |
 
